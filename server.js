@@ -1,7 +1,4 @@
-var request       = require('request'),
-	cheerio       = require('cheerio'),
-	elasticsearch = require('elasticsearch'),
-	Buffer        = require('buffer').Buffer,
+var elasticsearch = require('elasticsearch'),
 	fs            = require('fs'),
 	config        = require('./config.json'),
 	Q             = require('q'),

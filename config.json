@@ -5,7 +5,7 @@
     "IndexElasticsearch": "google",
     "TypeElasticsearch": "keyword2",
     "keywordsFile": "/var/www/nodeProject/google/liste.txt",
-    "debug": true,
+    "debug": false,
     "spreadsheetId": [
         "16VsQyE6a-N-YWtHJCZdHS4mMcSKqWjVL8maIs-XtvHo",
         "13sjdiYs4pQpwNHYI8pssMJzCzyTBNdSbQJ8RhTSr0h0",
@@ -28,7 +28,7 @@
     "google_results": 30,
     "google_pages": 1,
     "google_loading_text": "Loading...",
-    "receive_delay": 4000,
+    "receive_delay": 3000,
     "request_delay": 1000,
-    "keywordTry": 3
+    "keywordTry": 2
 }
